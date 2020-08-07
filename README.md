@@ -28,6 +28,11 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png" width="30px"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/mysql.png" width="30px"/>
 
+<br/>
+<br/>
+<br/>
+
+## 2020 
 - 🔭 I’m currently working on: Portfolio and other projects
 - 🌱 I’m currently learning Refining vanilla javascript to Vue/Nuxt applications.
 - 👯 I’m looking to collaborate on a new opportunity!
@@ -35,4 +40,3 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: <a href="mailto:ericwong12@live.com"> <img src="https://img.icons8.com/color/48/000000/filled-message.png" width="50px"/> </a> <a href="tel:+18019318459"><img src="https://img.icons8.com/color/48/000000/phone.png" width="50px"/> </a>
 - ⚡ Fun fact: I love coffee and coffee loves me
--->
