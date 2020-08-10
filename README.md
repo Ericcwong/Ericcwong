@@ -40,5 +40,5 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
 <a href="mailto:ericwong12@live.com"> <img src="https://img.icons8.com/color/48/000000/filled-message.png" width="50px"/></a> 
-<a href="tel:+18019318459"> <img src="https://img.icons8.com/color/48/000000/phone.png" width="50px"/></a>
+<a href="tel:+1801-931-8459"> <img src="https://img.icons8.com/color/48/000000/phone.png" width="50px"/></a>
 - ⚡ Fun fact: I love coffee and coffee loves me
