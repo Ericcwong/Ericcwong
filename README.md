@@ -39,5 +39,5 @@
 - 🤔 I’m looking for help with a mentorship, if you know someone or am someone who can be a mentor. Please I do appreciate someone to show me and guide me.
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
-<a href="mailto:ericwong12@live.com"> <img src="https://img.icons8.com/color/48/000000/filled-message.png" width="50px"/></a> 
+<a href="mailto:ericwong12@live.com"> <img src="https://img.icons8.com/color/48/000000/filled-message.png" width="50px"/>Email</a> 
 - ⚡ Fun fact: I love coffee and coffee loves me
