@@ -2,7 +2,7 @@
 
 #### Welcome to my Github profile, my focus as a web developer is to have a simple, functioning, and ease of use for users.
 
-<img src="https://img.icons8.com/color/50/000000/business.png"  width="25px"/> <a href="www.ericcwong.com">Portfolio Link </a>
+<img src="https://img.icons8.com/color/50/000000/business.png"  width="25px"/> <a href="https://www.ericcwong.com">Portfolio Link </a>
 
 #### <img src="https://img.icons8.com/color/50/000000/linkedin.png" width="25px"/><a href="https://www.linkedin.com/in/eric-wong-b721bbb2/"> Linkedin Link</a>
 
