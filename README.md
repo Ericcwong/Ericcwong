@@ -4,7 +4,7 @@
 
 <img src="https://img.icons8.com/color/50/000000/business.png"  width="25px"/> <a href="https://www.ericcwong.com">Portfolio Link </a>
 
-#### <img src="https://img.icons8.com/color/50/000000/linkedin.png" width="25px"/><a href="https://www.linkedin.com/in/eric-wong-b721bbb2/"> Linkedin Link</a>
+<img src="https://img.icons8.com/color/50/000000/linkedin.png" width="25px"/><a href="https://www.linkedin.com/in/eric-wong-b721bbb2/"> Linkedin Link</a>
 
 #### A little about myself, I like to build keyboards, computers, and the most obvious websites! My other hobbies consist of spending time with my partner and family and gaming with friends.
 
@@ -40,5 +40,5 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
 <a href="mailto:ericwong12@live.com"> <img src="https://img.icons8.com/color/48/000000/filled-message.png" width="50px"/></a> 
-<a href="tel:1-801-931-8459"> <img src="https://img.icons8.com/color/48/000000/phone.png" width="50px"/></a>
+ <a href="tel:18019318459"> Phone Number </a>
 - ⚡ Fun fact: I love coffee and coffee loves me
