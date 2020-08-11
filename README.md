@@ -26,7 +26,6 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="50px">
 <img align="left" src="https://img.icons8.com/color/48/000000/firebase.png" width="30px"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png" width="30px"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/mysql.png" width="30px"/>
 
 <br/>
 <br/>
