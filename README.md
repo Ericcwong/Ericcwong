@@ -15,7 +15,6 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5.png" width="30px"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/css3.png" width="30px"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png" width="30px"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/react-native.png" width="30px"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/bootstrap.png" width="30px"/>
 <br/>
 
@@ -31,12 +30,12 @@
 <br/>
 <br/>
 
-## 2020 
-- 🔭 I’m currently working on: Portfolio and other projects
+## As of 0ctober 2020
+- 🔭 I’m currently working on: Personal blog and Spending tracker
 - 🌱 I’m currently learning Refining vanilla javascript to Vue/Nuxt applications.
 - 👯 I’m looking to collaborate on a new opportunity!
 - 🤔 I’m looking for help with a mentorship, if you know someone or am someone who can be a mentor. Please I do appreciate someone to show me and guide me.
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
 <a href="mailto:ericwong12@live.com"> <img src="https://img.icons8.com/color/48/000000/filled-message.png" width="50px"/>Email</a> 
-- ⚡ Fun fact: I love coffee and coffee loves me
+- ⚡ Fun fact: I love coffee and coffee loves me.
