@@ -10,8 +10,8 @@
 
 ## Frontend
 
-<img align="left" src="https://nuxtjs.org/logos/nuxt-square.svg" alt="Nuxt" width="30px" align="left">
 <img align="left" src="https://img.icons8.com/color/48/000000/vue-js.png" width="30px"/>
+<img align="left" src="https://nuxtjs.org/logos/nuxt-square.svg" alt="Nuxt" width="30px" align="left">
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5.png" width="30px"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/css3.png" width="30px"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png" width="30px"/>
