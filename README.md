@@ -15,6 +15,7 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5.png" width="30px"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/css3.png" width="30px"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png" width="30px"/>
+<img align="left" alt="Vuetify Logo" width="30px" src="https://cdn.vuetifyjs.com/images/logos/logo.svg">
 <img align="left" src="https://img.icons8.com/color/48/000000/bootstrap.png" width="30px"/>
 <br/>
 
@@ -22,20 +23,15 @@
 
 <img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png" width="30px"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/npm.png" width="30px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="50px">
 <img align="left" src="https://img.icons8.com/color/48/000000/firebase.png" width="30px"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png" width="30px"/>
 
 <br/>
 <br/>
 <br/>
 
 ## As of 0ctober 2020
-- 🔭 I’m currently working on: Personal blog and Spending tracker
-- 🌱 I’m currently learning Refining vanilla javascript to Vue/Nuxt applications.
+- 🔭 I’m currently working on: Mkcapped, A keyboard enthusiast community website.
+- 🌱 I’m currently learning to write and comment cleaner code.
 - 👯 I’m looking to collaborate on a new opportunity!
-- 🤔 I’m looking for help with a mentorship, if you know someone or am someone who can be a mentor. Please I do appreciate someone to show me and guide me.
 - 💬 Ask me about anything!
-- 📫 How to reach me: 
-<a href="mailto:ericwong12@live.com"> <img src="https://img.icons8.com/color/48/000000/filled-message.png" width="50px"/>Email</a> 
 - ⚡ Fun fact: I love coffee and coffee loves me.
