@@ -8,10 +8,15 @@
 
 #### A little about myself, I like to build keyboards, computers, and the most obvious websites! My other hobbies consist of spending time with my partner and family and gaming with friends.
 
-## Frontend
+## Frontend Current Stack
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" width="30px"/>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="30px"/>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="30px"/>
+<br/>
 
+## Experience with
 <img align="left" src="https://img.icons8.com/color/48/000000/vue-js.png" width="30px"/>
-<img align="left" src="https://nuxtjs.org/logos/nuxt-square.svg" alt="Nuxt" width="30px" align="left">
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1200px-Nuxt_logo.svg.png" alt="Nuxt" width="30px" align="left">
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5.png" width="30px"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/css3.png" width="30px"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png" width="30px"/>
