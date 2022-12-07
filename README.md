@@ -29,9 +29,3 @@
 <br/>
 <br/>
 
-## As of 0ctober 2020
-- 🔭 I’m currently working on: Mkcapped, A keyboard enthusiast community website.
-- 🌱 I’m currently learning to write and comment cleaner code.
-- 👯 I’m looking to collaborate on a new opportunity!
-- 💬 Ask me about anything!
-- ⚡ Fun fact: I love coffee and coffee loves me.
